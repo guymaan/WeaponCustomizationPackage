@@ -1,7 +1,11 @@
 
 PACKAGE COMES WITH 3 WEAPON MODELS AND MULTIPLE OF EACH TYPE OF ATTACHMENT TO DEMONSTRATE HOW PACKAGE WORKS.
 
-This package makes adding your own weapon models and attachments extremely easy. Simply follow the intstructions below.
+This package can either be installed via the "Add package from disk" or the "Add package from Git URL" in the Unity Package Manager screen.
+
+Git URL: https://github.com/guymaan/WeaponCustomizationPackage.git
+
+This package makes adding your own weapon models and attachments easy. Simply follow the intstructions below.
 
 ---- Adding new weapons
 
@@ -37,16 +41,13 @@ This package makes adding your own weapon models and attachments extremely easy.
 
 1. To resize attachments for different weapons, simply change the size of the "AttachmentSlot" gameobject on each prefab.
 
-2. You can reposition the slots at any time by moving them in the object prefab.
+2. Attachment slots can be repositioned at any time by moving them in the object prefab.
 
-3. May need to edit scale of weapons to make them similar size.
+3. User may need to edit scale of weapons to make them similar size.
 
-4. 
+4. Once package is installed, as the user will not be able to open the downloaded scene. They simply need to move it into their projects "Scenes" folder.
 
-User will need to install the "TextMeshPro" package from Unity.
+5. The user must have some form of Git software installed as is the norm for any packages installed when using Git. - Here is a suitable version to useL https://git-scm.com/download/win
 
-If user you wants to add more weapon slots need to make new selection weapon function and make button on main menu
+6. If user wants to add more weapons to choose from need to make new weapon selection function as well as new buttons on main menu. - The current weapon selection functions can simply be copy/pasted with minor editing in order to work.
 
- make them make the tags
-
-add tag to correct canvas
