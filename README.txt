@@ -41,10 +41,12 @@ This package makes adding your own weapon models and attachments extremely easy.
 
 3. May need to edit scale of weapons to make them similar size.
 
-4. If user you wants to add more weapon slots need to make new selection weapon function and make button on main menu
+4. 
 
-5. The canvas object that has everything attached to it needs to have the "WeaponCustomizationCanvas" tag.
+User will need to install the "TextMeshPro" package from Unity.
 
-6. Make sure any prefabs that you create for use have have all of their position values set to 0.
+If user you wants to add more weapon slots need to make new selection weapon function and make button on main menu
 
-7. When saving a weapon, the prefab will save to the root "Asset" folder in your project.
+ make them make the tags
+
+add tag to correct canvas

@@ -1,20 +1,21 @@
 {
-  "name": "com.defaultcompany.customweapon",
-  "version": "1.0.0",
-  "displayName": "Weapon Customization Package",
-  "description": "This package, once add implemented, will allow users to freely customize multiple weapons with various attachments as well as add their own weapons and attachments.",
+  "name": "com.defaultcompany.yes",
+  "version": "0.0.1",
+  "displayName": "Package Example",
+  "description": "This is an example package",
   "unity": "2019.1",
   "unityRelease": "0b5",
   "dependencies": {
     
  },
  "keywords": [
-    "weapon customization package",
-    "create a class",
-    "make cool weapons"
+    "keyword1",
+    "keyword2",
+    "keyword3"
   ],
   "author": {
-    "name": "Curtis",
-    "email": "curtismk44@gmail.com"
+    "name": "Unity",
+    "email": "unity@example.com",
+    "url": "https://www.unity3d.com"
   }
 }
